@@ -48,16 +48,16 @@ userId: ObjectId (reference to User)
 
 -Project Structure<br>
 backend/<br>
-│── models/
-│── routes/
-│── middleware
-│── server.js
+│── models/<br>
+│── routes/<br>
+│── middleware<br>
+│── server.js<br>
 
-frontend/
-│── src/
-│   │── pages/
-│   │── components/
-│   │── App.js
+frontend/<br>
+│── src/<br>
+│   │── pages/<br>
+│   │── components/<br>
+│   │── App.js<br>
 
 -Backend Setup
 cd backend
